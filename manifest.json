@@ -2,20 +2,20 @@
   "name": "My PWA App",
   "short_name": "PWA App",
   "description": "",
-  "start_url": "./index.html?v=v1782022977876",
+  "start_url": "./index.html?v=v1782029181430",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
-  "theme_color": "#f0428c",
+  "theme_color": "#9f55dd",
   "icons": [
     {
-      "src": "./icon-192.png?v=v1782022977876",
+      "src": "./icon-192.png?v=v1782029181430",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./icon-512.png?v=v1782022977876",
+      "src": "./icon-512.png?v=v1782029181430",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
